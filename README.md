@@ -1,17 +1,17 @@
 # Hi there, I'm Hamid Noman Leghari 👋
 
-I am passionate about coding to create a more enjoyable, engaging, and improved world. As a student at Virtual University (VU) and an active developer, I am constantly building projects that sit at the intersection of data science, machine learning, and practical AI applications.
+I am passionate about coding to create a more enjoyable, engaging, and improved world. As a student at Virtual University (VU) and an active ML engineer, I am constantly building projects that sit at the intersection of data science, machine learning, and practical AI applications.
 
 ### 👨‍💻 About Me
 - 🔭 **Currently working on:** A Credit Card Fraud Detection model utilizing the IEEE-CIS dataset(FROM 2019 COMPETION).
-- 🧠 **Learning & Exploring:** I am actively expanding my knowledge in machine learning concepts and diving deep into famous ML architectures.
+- 🧠 **Learning & Exploring:** I am actively expanding my knowledge in machine learning concepts and diving deep into famous ML and deep learning architectures.
 - 💼 **Portfolio Highlights:** I've built numerous projects, including **SmartDeFi** (a financial management and patient billing app with an AI assistant) and a comprehensive suite of machine learning models developed during my data science training.
-- ⚡ **Fun fact:** I love experimenting with AI to solve real-world problems and creating efficient, data-driven workflows.
+- ⚡ **Fun fact:** I love experimenting with different AI tools to solve real-world problems and creating efficient, data-driven workflows.
 
 ### 🛠️ Tech Stack & Skills
 Here are the tools and languages I use to bring my projects to life:
 
-* **Languages:** Python, TypeScript, SQL
+* **Languages:** Python,SQL
 * **Data & Analytics:** Power BI, Data Modeling, Feature Engineering
 * **Machine Learning & AI:** Famous ML Models, Deep Learning, Generative AI workflows, Jupyter Notebooks
 
