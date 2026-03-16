@@ -1,4 +1,4 @@
-# Hi there, I'm Hamid Noman Leghari 👋
+# Hi there, I'm Hamid Noman Leghari! 👋
 
 I am passionate about coding to create a more enjoyable, engaging, and improved world. As a student at Virtual University (VU) and an active ML engineer, I am constantly building projects that sit at the intersection of data science, machine learning, and practical AI applications.
 
